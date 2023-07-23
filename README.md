@@ -1,1 +1,1 @@
-# Google-Data-Analytics-Certification-Case-Study-Bellabeat
+# Google Data Analytics Certification Case Study: Bellabeat
