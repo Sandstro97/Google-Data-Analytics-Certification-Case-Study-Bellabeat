@@ -492,7 +492,7 @@ ggarrange(
 ## Act
 For us to respond to our business task and help Bellabeat on its mission, based on my findings, I would advise using our own tracking data for further analysis. The datasets we used have a small sample and can be biased since we didn't have any demographic details of users. Knowing that our main targeted age range is young and adult women I encourage continuing to find trends to create a marketing strategy focused on our targeted age range.
 
-My recommendations:
+### My recommendations:
 1. The average users walk more than 7,500 steps daily except on Sundays. We can encourage customers to reach at least the daily recommended steps of 8.000, by sending them notifications if they haven't reached the steps goal.
 2. Since the majority of users sleep less than 8 hours a day. We could set up a desired time to go to sleep and receive a notification minutes before to prepare to sleep.
 3. Create a challenge or a game to challenge users to be more motivated to complete their activity goals on a daily basis.
